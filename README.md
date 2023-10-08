@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muaadh2097&label=Profile%20views&color=0e75b6&style=flat" alt="muaadh2097" /> </p>
 
-- 🌱 I’m currently learning *object detection , image classification ,backend*
-
 - 📫 How to reach me **alhmdanem88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
